@@ -12,4 +12,4 @@
 - Webpack 
 - Gulp 
 - Banco de Dados 
-- muito mais
+- e muito mais...
